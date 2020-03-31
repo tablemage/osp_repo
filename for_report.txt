@@ -1,3 +1,3 @@
 1st edit this file by 'echo' in terminal (ubuntu)
-2nd edit tihs file by vi for_report.txt in treminal of ubuntu. It already added in git.     
-
+2nd edit this file by vi for_report.txt in terminal of ubuntu. It already added in git.     
+3nd edit this file in remote? github.  also changed error on 2nd sentence.
