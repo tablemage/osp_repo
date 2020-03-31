@@ -1,1 +1,2 @@
 git text
+hi git it's a good day.
