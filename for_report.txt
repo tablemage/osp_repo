@@ -1,1 +1,3 @@
 1st edit this file by 'echo' in terminal (ubuntu)
+2nd edit tihs file by vi for_report.txt in treminal of ubuntu. It already added in git.     
+
